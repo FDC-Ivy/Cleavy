@@ -1,0 +1,8 @@
+com.cleavy.cleavy.app-pngs-0 /Users/fdc.ivy-nc-android/AndroidStudioProjects/Cleavy/app/build/generated/res/pngs/debug
+com.cleavy.cleavy.app-updated_navigation_xml-1 /Users/fdc.ivy-nc-android/AndroidStudioProjects/Cleavy/app/build/generated/updated_navigation_xml/debug
+com.cleavy.cleavy.app-packageDebugResources-2 /Users/fdc.ivy-nc-android/AndroidStudioProjects/Cleavy/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.cleavy.cleavy.app-packageDebugResources-3 /Users/fdc.ivy-nc-android/AndroidStudioProjects/Cleavy/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.cleavy.cleavy.app-debug-4 /Users/fdc.ivy-nc-android/AndroidStudioProjects/Cleavy/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.cleavy.cleavy.app-debug-5 /Users/fdc.ivy-nc-android/AndroidStudioProjects/Cleavy/app/src/debug/res
+com.cleavy.cleavy.app-main-6 /Users/fdc.ivy-nc-android/AndroidStudioProjects/Cleavy/app/src/main/res
+gradleHome-0 /Users/fdc.ivy-nc-android/.gradle
